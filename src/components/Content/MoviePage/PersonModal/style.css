@@ -1,0 +1,22 @@
+.modalInner {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.person {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.personInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.image {
+    width: 300px;
+    object-fit: contain;
+}

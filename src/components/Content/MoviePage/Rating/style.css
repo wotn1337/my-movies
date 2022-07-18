@@ -1,0 +1,8 @@
+.number {
+    transition: 300ms;
+    cursor: pointer;
+}
+
+.number:hover {
+    transform: scale(1.4);
+}
